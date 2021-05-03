@@ -231,7 +231,7 @@ class App extends Component {
                     }
                 </div>
                 <FolkMe
-                    targetUrl="https://github.com/completejavascript/drum-machine"
+                    targetUrl="https://github.com/grenadi/drum-machine"
                     color="#fff"
                     backgroundColor="#35cac5"
                     position="right"
